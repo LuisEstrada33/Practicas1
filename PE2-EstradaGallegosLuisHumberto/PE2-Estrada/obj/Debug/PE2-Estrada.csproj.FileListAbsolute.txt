@@ -1,0 +1,10 @@
+C:\Users\boyhu\source\repos\PE2-Estrada\PE2-Estrada\obj\Debug\PE2-Estrada.csprojAssemblyReference.cache
+C:\Users\boyhu\source\repos\PE2-Estrada\PE2-Estrada\obj\Debug\PE2-Estrada.csproj.CoreCompileInputs.cache
+C:\Users\boyhu\source\repos\PE2-Estrada\PE2-Estrada\bin\Debug\PE2-Estrada.exe.config
+C:\Users\boyhu\source\repos\PE2-Estrada\PE2-Estrada\bin\Debug\PE2-Estrada.exe
+C:\Users\boyhu\source\repos\PE2-Estrada\PE2-Estrada\bin\Debug\PE2-Estrada.pdb
+C:\Users\boyhu\source\repos\PE2-Estrada\PE2-Estrada\bin\Debug\ValorMin1.dll
+C:\Users\boyhu\source\repos\PE2-Estrada\PE2-Estrada\bin\Debug\ValorMin1.pdb
+C:\Users\boyhu\source\repos\PE2-Estrada\PE2-Estrada\obj\Debug\PE2-Estrada.csproj.CopyComplete
+C:\Users\boyhu\source\repos\PE2-Estrada\PE2-Estrada\obj\Debug\PE2-Estrada.exe
+C:\Users\boyhu\source\repos\PE2-Estrada\PE2-Estrada\obj\Debug\PE2-Estrada.pdb
